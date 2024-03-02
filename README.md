@@ -1,8 +1,4 @@
-
-### Hi! I'm Yoru 👋
-
-
-<!---
-YoukaiYoru/YoukaiYoru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center" width="300">
+   <img align="center" width="200" src="" />
+   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+</p>
